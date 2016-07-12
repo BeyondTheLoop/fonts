@@ -31,10 +31,10 @@ N.B. Using starting components will speed up your workflow. However the result w
 To get:  |  *⌘-G*, Paste this code: | 
 ------------ | ------------- | 
 Lining Figures | zero=zero.lf one=one.lf two=two.lf three=three.lf four=four.lf five=five.lf six=six.lf seven=seven.lf eight=eight.lf nine=nine.lf |
-Currencies | C+slash+slash=colonsign N+macron=naira P+macron=peseta W+macron=won d+macron+macron=dong K+macron=kip P+macron+macron=peso G+bar=guarani C+bar=cedi R+equal=rupeeIndian L+equal=liraTurkish bar=manat P+macron=ruble |
-ẞ | germandbsl=Germandbls
+Currencies | C+slash+slash=colonsign N+macron=naira P+t+s=peseta W+macron=won d+macron+macron=dong K+macron=kip P+macron+macron=peso G+bar=guarani C+bar=cedi R+equal=rupeeIndian L+equal=liraTurkish U+bar=manat P+macron=ruble |
+ẞ | germandbls=Germandbls
 ĸ | k=kgreenlandic
-Ŋ ŋ Ǆ ǅ ǆ| N+J=Eng n+j=eng D+Z+caroncomb=DZcaron D+z+caroncomb=Dzcaron d+z+caroncomb=dzcaron  
+Ŋ ŋ Ǆ ǅ ǆ| N+J=Eng n+jdotless=eng D+Z+caroncomb=DZcaron D+z+caroncomb=Dzcaron d+z+caroncomb=dzcaron  
 
 *GF Latin Pro*
 
