@@ -21,8 +21,9 @@ Are you seeing empty cells in your newly generated glyphs?
 
 You can speed up your work by pasting in components to rapidly start your work. To generate new glyphs press *⌘-G* and paste in the respective code. If the chacaters already exist, choose *'replace'* from the popup menu. This will recreate your exising glyphs with components. 
 
-```N.B. Using starting components will speed up your workflow. However the result will only be a starting point for the final design.
-```
+
+N.B. Using starting components will speed up your workflow. However the result will only be a starting point for the final design.
+
 
 
 *GF Latin Plus*
